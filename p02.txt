@@ -14,6 +14,7 @@ GR-TN-wieczór
 GR-TP-rano
    1.Przemyslaw Rogoz 204047} sterownik UDP
    2.Pawel Pokryszka 204013}   
+   3.Jerzy Mieszczański + Pawel Sikora - Stacja meteo
 
 
 GR-TP-wieczór
